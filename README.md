@@ -5,7 +5,7 @@ This is a simple Arduino project that reads temperature and humidity from a DHT1
 🛠️ Hardware Used
 - **Arduino UNO**
 - **DHT11 sensor**
-- **Resistors: 330Ω and 10kΩ**
+- **Resistors: 330Ω**
 - **Red LED**
 
 🧰 Planned Features
